@@ -13,4 +13,3 @@
 // 1. git add. - bu  bizga papkani ochib beradi . bu polniy papkani tochkasiz bersak bu bironta ichki kichkina papkani ochib beradi
 // 2. git commit -m 'test' bu bizga papkani oldida kichik information beradi
 // 3. git push origin master  
-
