@@ -4,6 +4,9 @@
 //   1. git init
 //   2. git remote add origin https://github.com/Abdulloh2211/task1.git
 
+// connection 2
+// git config --global user.email "you@example.com"
+// git config --global user.name "Your Name"
 
 // branch= bu qo'shimcha uning ustida ishlash stoli
 //push= bu  dokumentdi jo'natish 
